@@ -1,0 +1,31 @@
+.maincontainer {
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 2px black;
+    padding: 10px;
+}
+
+.infotarjeta {
+  background-color: #fafafa;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.infoaddress {
+  background-color: #fafafa;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.infopersonal {
+  background-color: #fafafa;
+  margin: 1rem;
+  padding: 1rem;
+}
